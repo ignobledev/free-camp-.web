@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int a,v,c;
+    cin>>a>>v>>c;
+    if(a>v)
+}
